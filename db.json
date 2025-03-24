@@ -2,46 +2,202 @@
   "modules": [
     {
       "id": 1,
-      "title": "Módulo 1: Historia",     
+      "title": "Módulo 1: Historia",
+      "url": "historia",
       "language": "Spanish"
     },
     {
       "id": 2,
       "title": "Módulo 2: Cultura",
+      "url": "cultura",
       "language": "Spanish"
     },
 
-     {
+    {
       "id": 3,
       "title": "Módulo 3: Turismo",
+      "url": "turismo",
       "language": "Spanish"
     },
     {
       "id": 4,
       "title": "Módulo 4: Música",
-      "language":"Spanish"
+      "url": "musica",
+      "language": "Spanish"
     },
     {
       "id": 5,
       "title": "Módulo 5: Comida",
-      "language":"Spanish"
+      "url": "comida",
+      "language": "Spanish"
     },
     {
       "id": 6,
-      "title": "Módulo 6: Datos curiosos",
-      "language":"Spanish"
+      "title": "Módulo 6: Literatura",
+      "url": "literatura",
+      "language": "Spanish"
     },
     {
-      "id": 6,
-      "title": "Módulo 6: Datos curiosos",
-      "language":"Spanish"
+      "id": 66,
+      "title": "Módulo 7: Datos curiosos",
+      "url": "datos",
+      "language": "Spanish"
+    },
+    {
+      "id": 7,
+      "title": "Moduli 1: Histori",
+      "url": "histori",
+      "language": "Albanian"
+    },
+    {
+      "id": 8,
+      "title": "Moduli 2: Kulture",
+      "url": "kulture",
+      "language": "Albanian"
+    },
+    {
+      "id": 9,
+      "title": "Moduli 3: Turizem",
+      "url": "turizem",
+      "language": "Albanian"
+    },
+    {
+      "id": 10,
+      "title": "Moduli 4: Muzike",
+      "url": "muzike",
+      "language": "Albanian"
+    },
+    {
+      "id": 11,
+      "title": "Moduli 5: Gatime",
+      "url": "gatime",
+      "language": "Albanian"
+    },
+    {
+      "id": 12,
+      "title": "Moduli 6: Literature",
+      "url": "literature",
+      "language": "Albanian"
+    },
+    {
+      "id": 13,
+      "title": "Moduli 7: Kuriozitete",
+      "url": "kuriozitete",
+      "language": "Albanian"
     }
-        
-        
-        
-        
-    
+  ],
+  "students": [
+    {
+      "id": 14,
+      "title": "Módulo 1: Historia",
+      "url": "historia",
+      "description": "España tiene una historia rica y compleja, moldeada por diversas civilizaciones. La Península Ibérica fue habitada inicialmente por íberos y celtas, y más tarde influenciada por fenicios, griegos y romanos, quienes establecieron Hispania como una provincia romana. Tras la caída de Roma, los visigodos gobernaron hasta la conquista musulmana omeya en el año 711. La Reconquista (718-1492) recuperó gradualmente España para el cristianismo, culminando con la unificación de Castilla y Aragón bajo Fernando e Isabel, y la expulsión de musulmanes y judíos. Los siglos XVI y XVII marcaron el Siglo de Oro español, con vastos imperios ultramarinos en América. Sin embargo, le siguió un período de declive debido a guerras y dificultades económicas. En el siglo XX, España vivió una guerra civil (1936-1939) que llevó a la dictadura de Franco (1939-1975), la cual terminó con una transición a la democracia y la adhesión a la Unión Europea en 1986. Hoy, España es una monarquía parlamentaria y una nación clave en Europa.",
+      "language": "Spanish"
+    },
+    {
+      "id": 15,
+      "title": "Moduli 1: Histori",
+      "url": "histori",
+      "description": "Gjergj Kastrioti Skënderbeu (1405-1468) ishte një nga figurat më të rëndësishme të historisë shqiptare, i njohur si heroi kombëtar që udhëhoqi qëndresën kundër Perandorisë Osmane. I marrë si peng nga osmanët në rini dhe i trajnuar në oborrin e tyre, ai u kthye në Shqipëri në vitin 1443, duke ngritur flamurin e Kastriotëve në Krujë dhe duke shpallur kryengritjen. Për më shumë se dy dekada, Skënderbeu organizoi dhe udhëhoqi qëndresën shqiptare përmes betejave të suksesshme, duke u bërë një figurë e njohur edhe në Evropë. Ai arriti të bashkojë princërit shqiptarë dhe të mbajë të papushtuar territoret e tij deri në vdekjen e tij në 1468, duke lënë një trashëgimi të rëndësishme në historinë shqiptare.",
+      "language": "Albanian"
+    },
+    {
+      "id": 114,
+      "title": "Módulo 2: Cultura",
+      "url": "cultura",
+      "description": "España tiene una historia rica y compleja, moldeada por diversas civilizaciones. La Península Ibérica fue habitada inicialmente por íberos y celtas, y más tarde influenciada por fenicios, griegos y romanos, quienes establecieron Hispania como una provincia romana. Tras la caída de Roma, los visigodos gobernaron hasta la conquista musulmana omeya en el año 711. La Reconquista (718-1492) recuperó gradualmente España para el cristianismo, culminando con la unificación de Castilla y Aragón bajo Fernando e Isabel, y la expulsión de musulmanes y judíos. Los siglos XVI y XVII marcaron el Siglo de Oro español, con vastos imperios ultramarinos en América. Sin embargo, le siguió un período de declive debido a guerras y dificultades económicas. En el siglo XX, España vivió una guerra civil (1936-1939) que llevó a la dictadura de Franco (1939-1975), la cual terminó con una transición a la democracia y la adhesión a la Unión Europea en 1986. Hoy, España es una monarquía parlamentaria y una nación clave en Europa.",
+      "language": "Spanish"
+    },
+    {
+      "id": 115,
+      "title": "Moduli 2: Kulture",
+      "url": "kulture",
+      "description": "Gjergj Kastrioti Skënderbeu (1405-1468) ishte një nga figurat më të rëndësishme të historisë shqiptare, i njohur si heroi kombëtar që udhëhoqi qëndresën kundër Perandorisë Osmane. I marrë si peng nga osmanët në rini dhe i trajnuar në oborrin e tyre, ai u kthye në Shqipëri në vitin 1443, duke ngritur flamurin e Kastriotëve në Krujë dhe duke shpallur kryengritjen. Për më shumë se dy dekada, Skënderbeu organizoi dhe udhëhoqi qëndresën shqiptare përmes betejave të suksesshme, duke u bërë një figurë e njohur edhe në Evropë. Ai arriti të bashkojë princërit shqiptarë dhe të mbajë të papushtuar territoret e tij deri në vdekjen e tij në 1468, duke lënë një trashëgimi të rëndësishme në historinë shqiptare.",
+      "language": "Albanian"
+    },
+    {
+      "id": 141,
+      "title": "Módulo 3: Turismo",
+      "url": "turismo",
+      "description": "España tiene una historia rica y compleja, moldeada por diversas civilizaciones. La Península Ibérica fue habitada inicialmente por íberos y celtas, y más tarde influenciada por fenicios, griegos y romanos, quienes establecieron Hispania como una provincia romana. Tras la caída de Roma, los visigodos gobernaron hasta la conquista musulmana omeya en el año 711. La Reconquista (718-1492) recuperó gradualmente España para el cristianismo, culminando con la unificación de Castilla y Aragón bajo Fernando e Isabel, y la expulsión de musulmanes y judíos. Los siglos XVI y XVII marcaron el Siglo de Oro español, con vastos imperios ultramarinos en América. Sin embargo, le siguió un período de declive debido a guerras y dificultades económicas. En el siglo XX, España vivió una guerra civil (1936-1939) que llevó a la dictadura de Franco (1939-1975), la cual terminó con una transición a la democracia y la adhesión a la Unión Europea en 1986. Hoy, España es una monarquía parlamentaria y una nación clave en Europa.",
+      "language": "Spanish"
+    },
+    {
+      "id": 151,
+      "title": "Moduli 3: Turizem",
+      "url": "turizem",
+      "description": "Gjergj Kastrioti Skënderbeu (1405-1468) ishte një nga figurat më të rëndësishme të historisë shqiptare, i njohur si heroi kombëtar që udhëhoqi qëndresën kundër Perandorisë Osmane. I marrë si peng nga osmanët në rini dhe i trajnuar në oborrin e tyre, ai u kthye në Shqipëri në vitin 1443, duke ngritur flamurin e Kastriotëve në Krujë dhe duke shpallur kryengritjen. Për më shumë se dy dekada, Skënderbeu organizoi dhe udhëhoqi qëndresën shqiptare përmes betejave të suksesshme, duke u bërë një figurë e njohur edhe në Evropë. Ai arriti të bashkojë princërit shqiptarë dhe të mbajë të papushtuar territoret e tij deri në vdekjen e tij në 1468, duke lënë një trashëgimi të rëndësishme në historinë shqiptare.",
+      "language": "Albanian"
+    },
+    {
+      "id": 111,
+      "title": "Módulo 4: Música",
+      "url": "musica",
+      "description": "España tiene una historia rica y compleja, moldeada por diversas civilizaciones. La Península Ibérica fue habitada inicialmente por íberos y celtas, y más tarde influenciada por fenicios, griegos y romanos, quienes establecieron Hispania como una provincia romana. Tras la caída de Roma, los visigodos gobernaron hasta la conquista musulmana omeya en el año 711. La Reconquista (718-1492) recuperó gradualmente España para el cristianismo, culminando con la unificación de Castilla y Aragón bajo Fernando e Isabel, y la expulsión de musulmanes y judíos. Los siglos XVI y XVII marcaron el Siglo de Oro español, con vastos imperios ultramarinos en América. Sin embargo, le siguió un período de declive debido a guerras y dificultades económicas. En el siglo XX, España vivió una guerra civil (1936-1939) que llevó a la dictadura de Franco (1939-1975), la cual terminó con una transición a la democracia y la adhesión a la Unión Europea en 1986. Hoy, España es una monarquía parlamentaria y una nación clave en Europa.",
+      "language": "Spanish"
+    },
+    {
+      "id": 34,
+      "title": "Moduli 4: Muzike",
+      "url": "muzike",
+      "description": "Gjergj Kastrioti Skënderbeu (1405-1468) ishte një nga figurat më të rëndësishme të historisë shqiptare, i njohur si heroi kombëtar që udhëhoqi qëndresën kundër Perandorisë Osmane. I marrë si peng nga osmanët në rini dhe i trajnuar në oborrin e tyre, ai u kthye në Shqipëri në vitin 1443, duke ngritur flamurin e Kastriotëve në Krujë dhe duke shpallur kryengritjen. Për më shumë se dy dekada, Skënderbeu organizoi dhe udhëhoqi qëndresën shqiptare përmes betejave të suksesshme, duke u bërë një figurë e njohur edhe në Evropë. Ai arriti të bashkojë princërit shqiptarë dhe të mbajë të papushtuar territoret e tij deri në vdekjen e tij në 1468, duke lënë një trashëgimi të rëndësishme në historinë shqiptare.",
+      "language": "Albanian"
+    },
+    {
+      "id": 20,
+      "title": "Módulo 5: Comida",
+      "url": "comida",
+      "description": "España tiene una historia rica y compleja, moldeada por diversas civilizaciones. La Península Ibérica fue habitada inicialmente por íberos y celtas, y más tarde influenciada por fenicios, griegos y romanos, quienes establecieron Hispania como una provincia romana. Tras la caída de Roma, los visigodos gobernaron hasta la conquista musulmana omeya en el año 711. La Reconquista (718-1492) recuperó gradualmente España para el cristianismo, culminando con la unificación de Castilla y Aragón bajo Fernando e Isabel, y la expulsión de musulmanes y judíos. Los siglos XVI y XVII marcaron el Siglo de Oro español, con vastos imperios ultramarinos en América. Sin embargo, le siguió un período de declive debido a guerras y dificultades económicas. En el siglo XX, España vivió una guerra civil (1936-1939) que llevó a la dictadura de Franco (1939-1975), la cual terminó con una transición a la democracia y la adhesión a la Unión Europea en 1986. Hoy, España es una monarquía parlamentaria y una nación clave en Europa.",
+      "language": "Spanish"
+    },
+    {
+      "id": 21,
+      "title": "Moduli 5: Gatime",
+      "url": "gatime",
+      "description": "Gjergj Kastrioti Skënderbeu (1405-1468) ishte një nga figurat më të rëndësishme të historisë shqiptare, i njohur si heroi kombëtar që udhëhoqi qëndresën kundër Perandorisë Osmane. I marrë si peng nga osmanët në rini dhe i trajnuar në oborrin e tyre, ai u kthye në Shqipëri në vitin 1443, duke ngritur flamurin e Kastriotëve në Krujë dhe duke shpallur kryengritjen. Për më shumë se dy dekada, Skënderbeu organizoi dhe udhëhoqi qëndresën shqiptare përmes betejave të suksesshme, duke u bërë një figurë e njohur edhe në Evropë. Ai arriti të bashkojë princërit shqiptarë dhe të mbajë të papushtuar territoret e tij deri në vdekjen e tij në 1468, duke lënë një trashëgimi të rëndësishme në historinë shqiptare.",
+      "language": "Albanian"
+    },
+    {
+      "id": 22,
+      "title": "Módulo 6: Literatura",
+      "url": "literatura",
+      "description": "España tiene una historia rica y compleja, moldeada por diversas civilizaciones. La Península Ibérica fue habitada inicialmente por íberos y celtas, y más tarde influenciada por fenicios, griegos y romanos, quienes establecieron Hispania como una provincia romana. Tras la caída de Roma, los visigodos gobernaron hasta la conquista musulmana omeya en el año 711. La Reconquista (718-1492) recuperó gradualmente España para el cristianismo, culminando con la unificación de Castilla y Aragón bajo Fernando e Isabel, y la expulsión de musulmanes y judíos. Los siglos XVI y XVII marcaron el Siglo de Oro español, con vastos imperios ultramarinos en América. Sin embargo, le siguió un período de declive debido a guerras y dificultades económicas. En el siglo XX, España vivió una guerra civil (1936-1939) que llevó a la dictadura de Franco (1939-1975), la cual terminó con una transición a la democracia y la adhesión a la Unión Europea en 1986. Hoy, España es una monarquía parlamentaria y una nación clave en Europa.",
+      "language": "Spanish"
+    },
+    {
+      "id": 23,
+      "title": "Moduli 6: Literature",
+      "url": "literature",
+      "description": "Gjergj Kastrioti Skënderbeu (1405-1468) ishte një nga figurat më të rëndësishme të historisë shqiptare, i njohur si heroi kombëtar që udhëhoqi qëndresën kundër Perandorisë Osmane. I marrë si peng nga osmanët në rini dhe i trajnuar në oborrin e tyre, ai u kthye në Shqipëri në vitin 1443, duke ngritur flamurin e Kastriotëve në Krujë dhe duke shpallur kryengritjen. Për më shumë se dy dekada, Skënderbeu organizoi dhe udhëhoqi qëndresën shqiptare përmes betejave të suksesshme, duke u bërë një figurë e njohur edhe në Evropë. Ai arriti të bashkojë princërit shqiptarë dhe të mbajë të papushtuar territoret e tij deri në vdekjen e tij në 1468, duke lënë një trashëgimi të rëndësishme në historinë shqiptare.",
+      "language": "Albanian"
+    },
+    {
+      "id": 24,
+      "title": "Módulo 7: Datos curiosos",
+      "url": "datos",
+      "description": "España tiene una historia rica y compleja, moldeada por diversas civilizaciones. La Península Ibérica fue habitada inicialmente por íberos y celtas, y más tarde influenciada por fenicios, griegos y romanos, quienes establecieron Hispania como una provincia romana. Tras la caída de Roma, los visigodos gobernaron hasta la conquista musulmana omeya en el año 711. La Reconquista (718-1492) recuperó gradualmente España para el cristianismo, culminando con la unificación de Castilla y Aragón bajo Fernando e Isabel, y la expulsión de musulmanes y judíos. Los siglos XVI y XVII marcaron el Siglo de Oro español, con vastos imperios ultramarinos en América. Sin embargo, le siguió un período de declive debido a guerras y dificultades económicas. En el siglo XX, España vivió una guerra civil (1936-1939) que llevó a la dictadura de Franco (1939-1975), la cual terminó con una transición a la democracia y la adhesión a la Unión Europea en 1986. Hoy, España es una monarquía parlamentaria y una nación clave en Europa.",
+      "language": "Spanish"
+    },
+    {
+      "id": 25,
+      "title": "Moduli 7: Kuriozitete",
+      "url": "kuriozitete",
+      "description": "Gjergj Kastrioti Skënderbeu (1405-1468) ishte një nga figurat më të rëndësishme të historisë shqiptare, i njohur si heroi kombëtar që udhëhoqi qëndresën kundër Perandorisë Osmane. I marrë si peng nga osmanët në rini dhe i trajnuar në oborrin e tyre, ai u kthye në Shqipëri në vitin 1443, duke ngritur flamurin e Kastriotëve në Krujë dhe duke shpallur kryengritjen. Për më shumë se dy dekada, Skënderbeu organizoi dhe udhëhoqi qëndresën shqiptare përmes betejave të suksesshme, duke u bërë një figurë e njohur edhe në Evropë. Ai arriti të bashkojë princërit shqiptarë dhe të mbajë të papushtuar territoret e tij deri në vdekjen e tij në 1468, duke lënë një trashëgimi të rëndësishme në historinë shqiptare.",
+      "language": "Albanian"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 16,
+      "title": "Módulo 1: Historia",
+      "description": "España tiene una historia rica y compleja, moldeada por diversas civilizaciones. La Península Ibérica fue habitada inicialmente por íberos y celtas, y más tarde influenciada por fenicios, griegos y romanos, quienes establecieron Hispania como una provincia romana. Tras la caída de Roma, los visigodos gobernaron hasta la conquista musulmana omeya en el año 711. La Reconquista (718-1492) recuperó gradualmente España para el cristianismo, culminando con la unificación de Castilla y Aragón bajo Fernando e Isabel, y la expulsión de musulmanes y judíos. Los siglos XVI y XVII marcaron el Siglo de Oro español, con vastos imperios ultramarinos en América. Sin embargo, le siguió un período de declive debido a guerras y dificultades económicas. En el siglo XX, España vivió una guerra civil (1936-1939) que llevó a la dictadura de Franco (1939-1975), la cual terminó con una transición a la democracia y la adhesión a la Unión Europea en 1986. Hoy, España es una monarquía parlamentaria y una nación clave en Europa.",
+      "language": "Spanish"
+    },
+    {
+      "id": 17,
+      "title": "Moduli 1: Histori",
+      "description": "Gjergj Kastrioti Skënderbeu (1405-1468) ishte një nga figurat më të rëndësishme të historisë shqiptare, i njohur si heroi kombëtar që udhëhoqi qëndresën kundër Perandorisë Osmane. I marrë si peng nga osmanët në rini dhe i trajnuar në oborrin e tyre, ai u kthye në Shqipëri në vitin 1443, duke ngritur flamurin e Kastriotëve në Krujë dhe duke shpallur kryengritjen. Për më shumë se dy dekada, Skënderbeu organizoi dhe udhëhoqi qëndresën shqiptare përmes betejave të suksesshme, duke u bërë një figurë e njohur edhe në Evropë. Ai arriti të bashkojë princërit shqiptarë dhe të mbajë të papushtuar territoret e tij deri në vdekjen e tij në 1468, duke lënë një trashëgimi të rëndësishme në historinë shqiptare.",
+      "language": "Albanian"
+    }
   ]
- 
-
 }
