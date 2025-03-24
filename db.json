@@ -1,33 +1,47 @@
 {
-  "projects": [
+  "modules": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "title": "Módulo 1: Historia",     
+      "language": "Spanish"
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "title": "Módulo 2: Cultura",
+      "language": "Spanish"
     },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
+
+     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "title": "Módulo 3: Turismo",
+      "language": "Spanish"
+    },
+    {
+      "id": 4,
+      "title": "Módulo 4: Música",
+      "language":"Spanish"
+    },
+    {
+      "id": 5,
+      "title": "Módulo 5: Comida",
+      "language":"Spanish"
+    },
+    {
+      "id": 6,
+      "title": "Módulo 6: Datos curiosos",
+      "language":"Spanish"
+    },
+    {
+      "id": 6,
+      "title": "Módulo 6: Datos curiosos",
+      "language":"Spanish"
     }
+        
+        
+        
+        
+    
   ]
+ 
+
 }
