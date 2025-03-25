@@ -8,8 +8,8 @@
     },
     {
       "id": 2,
-      "title": "Módulo 2: Cultura",
-      "url": "cultura",
+      "title": "Módulo 2: Folclore",
+      "url": "folclore",
       "language": "Spanish"
     },
 
@@ -27,8 +27,8 @@
     },
     {
       "id": 5,
-      "title": "Módulo 5: Comida",
-      "url": "comida",
+      "title": "Módulo 5: Gastronomía",
+      "url": "gastronomia",
       "language": "Spanish"
     },
     {
@@ -51,8 +51,8 @@
     },
     {
       "id": 8,
-      "title": "Moduli 2: Kulture",
-      "url": "kulture",
+      "title": "Moduli 2: Folklori",
+      "url": "folklori",
       "language": "Albanian"
     },
     {
@@ -69,8 +69,8 @@
     },
     {
       "id": 11,
-      "title": "Moduli 5: Gatime",
-      "url": "gatime",
+      "title": "Moduli 5: Gastronomia",
+      "url": "gastronomia",
       "language": "Albanian"
     },
     {
@@ -103,116 +103,186 @@
     },
     {
       "id": 114,
-      "title": "Módulo 2: Cultura",
-      "url": "cultura",
-      "description": "España tiene una historia rica y compleja, moldeada por diversas civilizaciones. La Península Ibérica fue habitada inicialmente por íberos y celtas, y más tarde influenciada por fenicios, griegos y romanos, quienes establecieron Hispania como una provincia romana. Tras la caída de Roma, los visigodos gobernaron hasta la conquista musulmana omeya en el año 711. La Reconquista (718-1492) recuperó gradualmente España para el cristianismo, culminando con la unificación de Castilla y Aragón bajo Fernando e Isabel, y la expulsión de musulmanes y judíos. Los siglos XVI y XVII marcaron el Siglo de Oro español, con vastos imperios ultramarinos en América. Sin embargo, le siguió un período de declive debido a guerras y dificultades económicas. En el siglo XX, España vivió una guerra civil (1936-1939) que llevó a la dictadura de Franco (1939-1975), la cual terminó con una transición a la democracia y la adhesión a la Unión Europea en 1986. Hoy, España es una monarquía parlamentaria y una nación clave en Europa.",
+      "title": "Módulo 2: Folclore",
+      "url": "folclore",
+      "description": "El folklore español es una rica y variada herencia cultural, llena de tradiciones, canciones, danzas y costumbres que varían de una región a otra. Uno de los elementos más conocidos es el flamenco, un estilo musical y de danza originario del sur de España, con una mezcla de influencias gitanas, judías y árabes. En el sur, también se encuentran el tango y las sevillanas como parte de la cultura de la danza. Las fiestas, como San Fermín (con la famosa carrera de toros) y La Tomatina (la batalla de tomates), son una parte importante de la vida popular, mientras que los jaleos, romanceros y coplas son tipos de canciones tradicionales que a menudo cuentan historias heroicas, de amor o tragedias. Las creencias religiosas y las celebraciones populares, como la Procesión de Semana Santa y el Día de San Juan, también son una parte importante del folklore español. Las tradiciones y costumbres son fundamentales para la identidad y la vida cotidiana de muchas comunidades españolas.",
       "language": "Spanish"
     },
     {
       "id": 115,
-      "title": "Moduli 2: Kulture",
-      "url": "kulture",
-      "description": "Gjergj Kastrioti Skënderbeu (1405-1468) ishte një nga figurat më të rëndësishme të historisë shqiptare, i njohur si heroi kombëtar që udhëhoqi qëndresën kundër Perandorisë Osmane. I marrë si peng nga osmanët në rini dhe i trajnuar në oborrin e tyre, ai u kthye në Shqipëri në vitin 1443, duke ngritur flamurin e Kastriotëve në Krujë dhe duke shpallur kryengritjen. Për më shumë se dy dekada, Skënderbeu organizoi dhe udhëhoqi qëndresën shqiptare përmes betejave të suksesshme, duke u bërë një figurë e njohur edhe në Evropë. Ai arriti të bashkojë princërit shqiptarë dhe të mbajë të papushtuar territoret e tij deri në vdekjen e tij në 1468, duke lënë një trashëgimi të rëndësishme në historinë shqiptare.",
+      "title": "Moduli 2: Folklori",
+      "url": "folklori",
+      "description": "Folklori shqiptar është një pasuri e madhe kulturore që përfshin këngët epike dhe iso-polifoninë e njohur nga UNESCO, vallet tradicionale si Vallja e Tropojës dhe Vallja Çame, si dhe instrumentet karakteristike si lahuta, çiftelia dhe daullja. Përrallat dhe legjendat, si ajo e Rozafës apo e Bukurës së Dheut, pasqyrojnë besimet popullore dhe historinë e lashtë të shqiptarëve. Kanuni, mikpritja dhe besa janë shtylla të identitetit shqiptar, ndërsa doket dhe besimet popullore, si mbrojtja nga syri i keq, mbeten të gjalla edhe sot. Përmes brezave, folklori ruhet dhe përcillet si një pjesë e rëndësishme e kulturës kombëtare.",
       "language": "Albanian"
     },
     {
       "id": 141,
       "title": "Módulo 3: Turismo",
       "url": "turismo",
-      "description": "España tiene una historia rica y compleja, moldeada por diversas civilizaciones. La Península Ibérica fue habitada inicialmente por íberos y celtas, y más tarde influenciada por fenicios, griegos y romanos, quienes establecieron Hispania como una provincia romana. Tras la caída de Roma, los visigodos gobernaron hasta la conquista musulmana omeya en el año 711. La Reconquista (718-1492) recuperó gradualmente España para el cristianismo, culminando con la unificación de Castilla y Aragón bajo Fernando e Isabel, y la expulsión de musulmanes y judíos. Los siglos XVI y XVII marcaron el Siglo de Oro español, con vastos imperios ultramarinos en América. Sin embargo, le siguió un período de declive debido a guerras y dificultades económicas. En el siglo XX, España vivió una guerra civil (1936-1939) que llevó a la dictadura de Franco (1939-1975), la cual terminó con una transición a la democracia y la adhesión a la Unión Europea en 1986. Hoy, España es una monarquía parlamentaria y una nación clave en Europa.",
+      "description": "El turismo en España es uno de los sectores más importantes de la economía, atrayendo a millones de turistas cada año gracias a su extraordinaria diversidad, que ofrece una combinación de cultura, historia, naturaleza y hermosas playas. España cuenta con algunos de los destinos turísticos más conocidos del mundo, como Barcelona, con la arquitectura única de Gaudí, Madrid, la capital llena de cultura e historia, y Sevilla, con flamenco y monumentos históricos. Regiones como Las Islas Canarias y Las Islas Baleares son famosas por sus playas paradisíacas, su clima cálido y las actividades acuáticas, mientras que la Costa Brava ofrece paisajes impresionantes y pequeños y pintorescos pueblos costeros. España también es rica en tradiciones culturales, con festividades famosas como San Fermín y La Tomatina, y un legado histórico impresionante, incluyendo la Alhambra en Granada y la Sagrada Familia en Barcelona. En los últimos años, la infraestructura desarrollada y la oferta de servicios turísticos han contribuido al crecimiento de la popularidad de España como un destino turístico principal en Europa y en el mundo.",
       "language": "Spanish"
     },
     {
       "id": 151,
       "title": "Moduli 3: Turizem",
       "url": "turizem",
-      "description": "Gjergj Kastrioti Skënderbeu (1405-1468) ishte një nga figurat më të rëndësishme të historisë shqiptare, i njohur si heroi kombëtar që udhëhoqi qëndresën kundër Perandorisë Osmane. I marrë si peng nga osmanët në rini dhe i trajnuar në oborrin e tyre, ai u kthye në Shqipëri në vitin 1443, duke ngritur flamurin e Kastriotëve në Krujë dhe duke shpallur kryengritjen. Për më shumë se dy dekada, Skënderbeu organizoi dhe udhëhoqi qëndresën shqiptare përmes betejave të suksesshme, duke u bërë një figurë e njohur edhe në Evropë. Ai arriti të bashkojë princërit shqiptarë dhe të mbajë të papushtuar territoret e tij deri në vdekjen e tij në 1468, duke lënë një trashëgimi të rëndësishme në historinë shqiptare.",
+      "description": "Turizmi në Shqipëri ka njohur një rritje të konsiderueshme vitet e fundit, falë peizazheve të bukura natyrore, plazheve të pastra, pasurisë kulturore dhe historike, si dhe mikpritjes së njohur të shqiptarëve. Vende si Butrinti, i cili është një sit i Trashëgimisë Botërore të UNESCO-s, qytetet historike si Berati, Gjirokastra dhe Shkodra, si dhe bregdeti i jashtëzakonshëm me plazhe si Dhërmiu, Jale dhe Ksamil, tërheqin turistë nga e gjithë bota. Po ashtu, Shqipëria ofron mundësi për turizëm malor, ecje dhe alpinistike, me pasuri natyrore si Bjeshkët e Nemuna dhe Lumi i Vjosa. Rritja e infrastrukturës dhe shërbimeve turistike ka bërë që vendi të jetë gjithnjë e më tërheqës për vizitorët që kërkojnë një përvojë të veçantë dhe autentike.",
       "language": "Albanian"
     },
     {
       "id": 111,
       "title": "Módulo 4: Música",
       "url": "musica",
-      "description": "España tiene una historia rica y compleja, moldeada por diversas civilizaciones. La Península Ibérica fue habitada inicialmente por íberos y celtas, y más tarde influenciada por fenicios, griegos y romanos, quienes establecieron Hispania como una provincia romana. Tras la caída de Roma, los visigodos gobernaron hasta la conquista musulmana omeya en el año 711. La Reconquista (718-1492) recuperó gradualmente España para el cristianismo, culminando con la unificación de Castilla y Aragón bajo Fernando e Isabel, y la expulsión de musulmanes y judíos. Los siglos XVI y XVII marcaron el Siglo de Oro español, con vastos imperios ultramarinos en América. Sin embargo, le siguió un período de declive debido a guerras y dificultades económicas. En el siglo XX, España vivió una guerra civil (1936-1939) que llevó a la dictadura de Franco (1939-1975), la cual terminó con una transición a la democracia y la adhesión a la Unión Europea en 1986. Hoy, España es una monarquía parlamentaria y una nación clave en Europa.",
+      "description": "La música española es una mezcla vibrante de tradición y modernidad, con raíces en el flamenco, la copla y la zarzuela, pero también influenciada por el pop, el rock y la música electrónica. Géneros como el flamenco, con su pasión y duende, han traspasado fronteras gracias a artistas como Paco de Lucía o Camarón de la Isla. La canción de autor, con figuras como Serrat o Sabina, ha llevado la poesía a la música, mientras que el pop y el rock han dado estrellas internacionales como Alejandro Sanz o Rosalía. España es un país de sonidos diversos, donde la tradición convive con la innovación",
       "language": "Spanish"
     },
     {
       "id": 34,
       "title": "Moduli 4: Muzike",
       "url": "muzike",
-      "description": "Gjergj Kastrioti Skënderbeu (1405-1468) ishte një nga figurat më të rëndësishme të historisë shqiptare, i njohur si heroi kombëtar që udhëhoqi qëndresën kundër Perandorisë Osmane. I marrë si peng nga osmanët në rini dhe i trajnuar në oborrin e tyre, ai u kthye në Shqipëri në vitin 1443, duke ngritur flamurin e Kastriotëve në Krujë dhe duke shpallur kryengritjen. Për më shumë se dy dekada, Skënderbeu organizoi dhe udhëhoqi qëndresën shqiptare përmes betejave të suksesshme, duke u bërë një figurë e njohur edhe në Evropë. Ai arriti të bashkojë princërit shqiptarë dhe të mbajë të papushtuar territoret e tij deri në vdekjen e tij në 1468, duke lënë një trashëgimi të rëndësishme në historinë shqiptare.",
+      "description": "Muzika shqiptare ka një pasuri të madhe, e pasur me tradita dhe ndikime të ndryshme historike dhe kulturore. Ajo përfshin një gamë të gjerë zhanresh, duke filluar nga muzika popullore tradicionale deri tek muzika moderne dhe pop. Tradita muzikore shqiptare është e ndarë në dy grupe kryesore: muzika e jugut, e njohur për këngët e dashurisë dhe tingujt e butë, dhe muzika e veriut, e pasur me ritme më të forta dhe energjike. Një pjesë e rëndësishme e muzikës shqiptare është iso-polifonia, një teknikë këndimi shumëzëshëm që është shpallur pasuri e trashëgimisë botërore nga UNESCO.Në skenën moderne, Shqipëria ka dhënë shumë këngëtarë të njohur që kanë arritur suksese të mëdha ndërkombëtarisht, si Rita Ora dhe Dafina Zeqiri, që kanë arritur famë në muzikën pop dhe Elvana Gjata, e cila është një nga emrat më të njohur në muzikën shqiptare dhe në rajon. Po ashtu, Vaçe Zela, Nedim Dema dhe Bajram Curri janë ndër emrat më të njohur të muzikës tradicionale, të cilët kanë kontribuar shumë për ruajtjen dhe zhvillimin e këngëve popullore. Këngëtarët e tjerë të njohur si Alban Skënderaj, Ermal Meta dhe Adrian Gaxha kanë pasuruar skenën muzikore me stilin e tyre të veçantë, duke u bërë figura të rëndësishme të muzikës moderne shqiptare. Muzika shqiptare është një pasuri e çmuar kulturore që vazhdon të zhvillohet dhe të përfaqësojë identitetin e vendit në arenën ndërkombëtare.",
       "language": "Albanian"
     },
     {
       "id": 20,
-      "title": "Módulo 5: Comida",
-      "url": "comida",
-      "description": "España tiene una historia rica y compleja, moldeada por diversas civilizaciones. La Península Ibérica fue habitada inicialmente por íberos y celtas, y más tarde influenciada por fenicios, griegos y romanos, quienes establecieron Hispania como una provincia romana. Tras la caída de Roma, los visigodos gobernaron hasta la conquista musulmana omeya en el año 711. La Reconquista (718-1492) recuperó gradualmente España para el cristianismo, culminando con la unificación de Castilla y Aragón bajo Fernando e Isabel, y la expulsión de musulmanes y judíos. Los siglos XVI y XVII marcaron el Siglo de Oro español, con vastos imperios ultramarinos en América. Sin embargo, le siguió un período de declive debido a guerras y dificultades económicas. En el siglo XX, España vivió una guerra civil (1936-1939) que llevó a la dictadura de Franco (1939-1975), la cual terminó con una transición a la democracia y la adhesión a la Unión Europea en 1986. Hoy, España es una monarquía parlamentaria y una nación clave en Europa.",
+      "title": "Módulo 5: Gastronomía",
+      "url": "gastronomía",
+      "description": "La gastronomía española es una de las más variadas y sabrosas del mundo, caracterizada por una gran diversidad de ingredientes y platos regionales. Cada región de España tiene sus propias especialidades, lo que hace que la cocina española sea rica en sabores y tradiciones. Algunos de los platos más emblemáticos incluyen la paella, originaria de la Comunidad Valenciana, que combina arroz con mariscos, carne y verduras; las tapas, pequeñas raciones de comida que se sirven en bares y restaurantes, ideales para compartir; y el jamón ibérico, uno de los productos más prestigiosos del país. Otras delicias populares incluyen la tortilla española, una mezcla de huevos, patatas y cebolla, y las empanadas gallegas. La sangría y el vino son bebidas típicas que acompañan muchas de las comidas, mientras que en la región de Andalucía, el gazpacho y el salmorejo son sopas frías perfectas para el clima cálido. En resumen, la gastronomía española no solo es deliciosa, sino también una representación de su rica historia cultural y su diversidad regional.",
       "language": "Spanish"
     },
     {
       "id": 21,
-      "title": "Moduli 5: Gatime",
-      "url": "gatime",
-      "description": "Gjergj Kastrioti Skënderbeu (1405-1468) ishte një nga figurat më të rëndësishme të historisë shqiptare, i njohur si heroi kombëtar që udhëhoqi qëndresën kundër Perandorisë Osmane. I marrë si peng nga osmanët në rini dhe i trajnuar në oborrin e tyre, ai u kthye në Shqipëri në vitin 1443, duke ngritur flamurin e Kastriotëve në Krujë dhe duke shpallur kryengritjen. Për më shumë se dy dekada, Skënderbeu organizoi dhe udhëhoqi qëndresën shqiptare përmes betejave të suksesshme, duke u bërë një figurë e njohur edhe në Evropë. Ai arriti të bashkojë princërit shqiptarë dhe të mbajë të papushtuar territoret e tij deri në vdekjen e tij në 1468, duke lënë një trashëgimi të rëndësishme në historinë shqiptare.",
+      "title": "Moduli 5: Gastronomia",
+      "url": "gastronomia",
+      "description": "Gastronomia shqiptare është një pasuri e madhe kulturore, e pasur me tradita dhe shije të ndryshme që pasqyrojnë ndikime të historisë dhe gjeografisë së vendit. Ajo është e bazuar në produkte të freskëta dhe të shëndetshme, të cilat merren nga toka dhe deti, duke përfshirë perime, fruta, mish, dhe prodhime deti. Disa nga ushqimet më të njohura janë tava e qengjit, fërgesa, dhe byrekët e ndryshme, të cilat përgatiten me mish, djathë, perime dhe një shumëllojshmëri erëzash. Po ashtu, sallata e perimeve me domate, kastravec, dhe ullinj është një pjesë thelbësore e çdo vakti. Tavë kosi, një pjatë tradicionale me mish pule dhe kos, është gjithashtu shumë e njohur. Ushqimi shqiptar ka një lidhje të ngushtë me sezonet dhe ndihmon në pasurimin e dietës me produkte të natyrshme dhe të shëndetshme. Përveç ushqimeve të përditshme, shqiptarët janë të njohur për mikpritjen dhe shpeshtësinë e dasmave dhe festave ku serviren ushqime të shumta dhe të shijshme, si flija, krapi i pjekur dhe ballokume. Gastronomia shqiptare është një pasqyrë e thjeshtë, por e pasur e kulturës dhe traditave të këtij vendi.",
       "language": "Albanian"
     },
     {
       "id": 22,
       "title": "Módulo 6: Literatura",
       "url": "literatura",
-      "description": "España tiene una historia rica y compleja, moldeada por diversas civilizaciones. La Península Ibérica fue habitada inicialmente por íberos y celtas, y más tarde influenciada por fenicios, griegos y romanos, quienes establecieron Hispania como una provincia romana. Tras la caída de Roma, los visigodos gobernaron hasta la conquista musulmana omeya en el año 711. La Reconquista (718-1492) recuperó gradualmente España para el cristianismo, culminando con la unificación de Castilla y Aragón bajo Fernando e Isabel, y la expulsión de musulmanes y judíos. Los siglos XVI y XVII marcaron el Siglo de Oro español, con vastos imperios ultramarinos en América. Sin embargo, le siguió un período de declive debido a guerras y dificultades económicas. En el siglo XX, España vivió una guerra civil (1936-1939) que llevó a la dictadura de Franco (1939-1975), la cual terminó con una transición a la democracia y la adhesión a la Unión Europea en 1986. Hoy, España es una monarquía parlamentaria y una nación clave en Europa.",
+      "description": "Siglo de Oro (XVI - XVII): Miguel de Cervantes (Don Quijote de la Mancha) – La obra cumbre de la literatura española. Lope de Vega (Fuenteovejuna) – Revolucionó el teatro con su Arte nuevo de hacer comedias. Francisco de Quevedo (La vida del Buscón llamado Don Pablos) – Maestro del conceptismo y la sátira. Luis de Góngora (Soledades) – Principal exponente del culteranismo. Calderón de la Barca (La vida es sueño) – Gran ",
       "language": "Spanish"
     },
     {
       "id": 23,
       "title": "Moduli 6: Literature",
       "url": "literature",
-      "description": "Gjergj Kastrioti Skënderbeu (1405-1468) ishte një nga figurat më të rëndësishme të historisë shqiptare, i njohur si heroi kombëtar që udhëhoqi qëndresën kundër Perandorisë Osmane. I marrë si peng nga osmanët në rini dhe i trajnuar në oborrin e tyre, ai u kthye në Shqipëri në vitin 1443, duke ngritur flamurin e Kastriotëve në Krujë dhe duke shpallur kryengritjen. Për më shumë se dy dekada, Skënderbeu organizoi dhe udhëhoqi qëndresën shqiptare përmes betejave të suksesshme, duke u bërë një figurë e njohur edhe në Evropë. Ai arriti të bashkojë princërit shqiptarë dhe të mbajë të papushtuar territoret e tij deri në vdekjen e tij në 1468, duke lënë një trashëgimi të rëndësishme në historinë shqiptare.",
+      "description": "Literatura shqiptare ka një histori të pasur dhe të larmishme që daton që nga periudha mesjetare dhe vazhdon edhe sot, duke pasqyruar kulturën, historinë dhe shpirtin e popullit shqiptar. Në periudhën e mesjetës, letërsia ishte kryesisht fetare dhe e lidhur ngushtë me besimin, ndërsa në shekullin XV shfaqen veprat e para të shkruara në gjuhën shqipe, si “Meshari” i Gjon Buzukut, i cili është i pari libër i njohur i shkruar në gjuhën shqipe. Rilindja Kombëtare, në shekullin XIX, ka qenë një periudhë e rëndësishme për letërsinë shqiptare, ku shumë shkrimtarë dhe poetë, si Naim Frashëri, Pashko Vasa, dhe Andon Zako Çajupi, përdorën fjalën e shkruar për të promovuar ideologjinë kombëtare dhe për të luftuar për pavarësinë e Shqipërisë. Poezia dhe shkrimet e tyre kanë pasur një ndikim të madh në formimin e identitetit shqiptar dhe shpesh ishin frymëzuese për lëvizjet kombëtare. Në shekullin XX, letërsia shqiptare ka njohur zhvillime të mëdha, sidomos pas Luftës së Dytë Botërore, kur komunistët erdhën në pushtet. Shkrimtarë si Ismail Kadare, Dritëro Agolli, Fatos Arapi, dhe Teodor Keko u bënë emra të njohur të letërsisë shqipe, duke pasqyruar realitetin e jetës në regjimin komunist dhe ndikimet e tij tek individi dhe shoqëria. Kadare, veçanërisht, është një ndër shkrimtarët më të njohur ndërkombëtarisht, i cili trajton temat e totalitarizmit, lirisë dhe kërkimit të identitetit në një shoqëri të shtypur.",
       "language": "Albanian"
     },
     {
       "id": 24,
       "title": "Módulo 7: Datos curiosos",
       "url": "datos",
-      "description": "España tiene una historia rica y compleja, moldeada por diversas civilizaciones. La Península Ibérica fue habitada inicialmente por íberos y celtas, y más tarde influenciada por fenicios, griegos y romanos, quienes establecieron Hispania como una provincia romana. Tras la caída de Roma, los visigodos gobernaron hasta la conquista musulmana omeya en el año 711. La Reconquista (718-1492) recuperó gradualmente España para el cristianismo, culminando con la unificación de Castilla y Aragón bajo Fernando e Isabel, y la expulsión de musulmanes y judíos. Los siglos XVI y XVII marcaron el Siglo de Oro español, con vastos imperios ultramarinos en América. Sin embargo, le siguió un período de declive debido a guerras y dificultades económicas. En el siglo XX, España vivió una guerra civil (1936-1939) que llevó a la dictadura de Franco (1939-1975), la cual terminó con una transición a la democracia y la adhesión a la Unión Europea en 1986. Hoy, España es una monarquía parlamentaria y una nación clave en Europa.",
+      "description": "To add...",
       "language": "Spanish"
     },
     {
       "id": 25,
       "title": "Moduli 7: Kuriozitete",
       "url": "kuriozitete",
-      "description": "Gjergj Kastrioti Skënderbeu (1405-1468) ishte një nga figurat më të rëndësishme të historisë shqiptare, i njohur si heroi kombëtar që udhëhoqi qëndresën kundër Perandorisë Osmane. I marrë si peng nga osmanët në rini dhe i trajnuar në oborrin e tyre, ai u kthye në Shqipëri në vitin 1443, duke ngritur flamurin e Kastriotëve në Krujë dhe duke shpallur kryengritjen. Për më shumë se dy dekada, Skënderbeu organizoi dhe udhëhoqi qëndresën shqiptare përmes betejave të suksesshme, duke u bërë një figurë e njohur edhe në Evropë. Ai arriti të bashkojë princërit shqiptarë dhe të mbajë të papushtuar territoret e tij deri në vdekjen e tij në 1468, duke lënë një trashëgimi të rëndësishme në historinë shqiptare.",
+      "description": "Mos tret mbeturinat ne darke, mos prit thonjt, mos shkund mbulesen e bukes ne darke, mos ha djathe me peshk",
       "language": "Albanian"
     }
   ],
   "teachers": [
     {
-      "id": 16,
+      "id": 26,
       "title": "Módulo 1: Historia",
-      "url": "historia-teacher",
+      "url": "historia",
       "description": "España tiene una historia rica y compleja, moldeada por diversas civilizaciones. La Península Ibérica fue habitada inicialmente por íberos y celtas, y más tarde influenciada por fenicios, griegos y romanos, quienes establecieron Hispania como una provincia romana. Tras la caída de Roma, los visigodos gobernaron hasta la conquista musulmana omeya en el año 711. La Reconquista (718-1492) recuperó gradualmente España para el cristianismo, culminando con la unificación de Castilla y Aragón bajo Fernando e Isabel, y la expulsión de musulmanes y judíos. Los siglos XVI y XVII marcaron el Siglo de Oro español, con vastos imperios ultramarinos en América. Sin embargo, le siguió un período de declive debido a guerras y dificultades económicas. En el siglo XX, España vivió una guerra civil (1936-1939) que llevó a la dictadura de Franco (1939-1975), la cual terminó con una transición a la democracia y la adhesión a la Unión Europea en 1986. Hoy, España es una monarquía parlamentaria y una nación clave en Europa.",
       "language": "Spanish"
     },
     {
-      "id": 17,
+      "id": 27,
       "title": "Moduli 1: Histori",
-      "url": "histori-mesues",
+      "url": "histori",
       "description": "Gjergj Kastrioti Skënderbeu (1405-1468) ishte një nga figurat më të rëndësishme të historisë shqiptare, i njohur si heroi kombëtar që udhëhoqi qëndresën kundër Perandorisë Osmane. I marrë si peng nga osmanët në rini dhe i trajnuar në oborrin e tyre, ai u kthye në Shqipëri në vitin 1443, duke ngritur flamurin e Kastriotëve në Krujë dhe duke shpallur kryengritjen. Për më shumë se dy dekada, Skënderbeu organizoi dhe udhëhoqi qëndresën shqiptare përmes betejave të suksesshme, duke u bërë një figurë e njohur edhe në Evropë. Ai arriti të bashkojë princërit shqiptarë dhe të mbajë të papushtuar territoret e tij deri në vdekjen e tij në 1468, duke lënë një trashëgimi të rëndësishme në historinë shqiptare.",
       "language": "Albanian"
     },
     {
-      "id": 31,
-      "title": "Módulo 2: Cultura",
-      "url": "cultura-teacher",
-      "description": "España tiene una historia rica y compleja, moldeada por diversas civilizaciones. La Península Ibérica fue habitada inicialmente por íberos y celtas, y más tarde influenciada por fenicios, griegos y romanos, quienes establecieron Hispania como una provincia romana. Tras la caída de Roma, los visigodos gobernaron hasta la conquista musulmana omeya en el año 711. La Reconquista (718-1492) recuperó gradualmente España para el cristianismo, culminando con la unificación de Castilla y Aragón bajo Fernando e Isabel, y la expulsión de musulmanes y judíos. Los siglos XVI y XVII marcaron el Siglo de Oro español, con vastos imperios ultramarinos en América. Sin embargo, le siguió un período de declive debido a guerras y dificultades económicas. En el siglo XX, España vivió una guerra civil (1936-1939) que llevó a la dictadura de Franco (1939-1975), la cual terminó con una transición a la democracia y la adhesión a la Unión Europea en 1986. Hoy, España es una monarquía parlamentaria y una nación clave en Europa.",
+      "id": 28,
+      "title": "Módulo 2: Folclore",
+      "url": "folclore",
+      "description": "El folklore español es una rica y variada herencia cultural, llena de tradiciones, canciones, danzas y costumbres que varían de una región a otra. Uno de los elementos más conocidos es el flamenco, un estilo musical y de danza originario del sur de España, con una mezcla de influencias gitanas, judías y árabes. En el sur, también se encuentran el tango y las sevillanas como parte de la cultura de la danza. Las fiestas, como San Fermín (con la famosa carrera de toros) y La Tomatina (la batalla de tomates), son una parte importante de la vida popular, mientras que los jaleos, romanceros y coplas son tipos de canciones tradicionales que a menudo cuentan historias heroicas, de amor o tragedias. Las creencias religiosas y las celebraciones populares, como la Procesión de Semana Santa y el Día de San Juan, también son una parte importante del folklore español. Las tradiciones y costumbres son fundamentales para la identidad y la vida cotidiana de muchas comunidades españolas.",
       "language": "Spanish"
     },
     {
+      "id": 29,
+      "title": "Moduli 2: Folklori",
+      "url": "folklori",
+      "description": "Folklori shqiptar është një pasuri e madhe kulturore që përfshin këngët epike dhe iso-polifoninë e njohur nga UNESCO, vallet tradicionale si Vallja e Tropojës dhe Vallja Çame, si dhe instrumentet karakteristike si lahuta, çiftelia dhe daullja. Përrallat dhe legjendat, si ajo e Rozafës apo e Bukurës së Dheut, pasqyrojnë besimet popullore dhe historinë e lashtë të shqiptarëve. Kanuni, mikpritja dhe besa janë shtylla të identitetit shqiptar, ndërsa doket dhe besimet popullore, si mbrojtja nga syri i keq, mbeten të gjalla edhe sot. Përmes brezave, folklori ruhet dhe përcillet si një pjesë e rëndësishme e kulturës kombëtare.",
+      "language": "Albanian"
+    },
+    {
+      "id": 30,
+      "title": "Módulo 3: Turismo",
+      "url": "turismo",
+      "description": "El turismo en España es uno de los sectores más importantes de la economía, atrayendo a millones de turistas cada año gracias a su extraordinaria diversidad, que ofrece una combinación de cultura, historia, naturaleza y hermosas playas. España cuenta con algunos de los destinos turísticos más conocidos del mundo, como Barcelona, con la arquitectura única de Gaudí, Madrid, la capital llena de cultura e historia, y Sevilla, con flamenco y monumentos históricos. Regiones como Las Islas Canarias y Las Islas Baleares son famosas por sus playas paradisíacas, su clima cálido y las actividades acuáticas, mientras que la Costa Brava ofrece paisajes impresionantes y pequeños y pintorescos pueblos costeros. España también es rica en tradiciones culturales, con festividades famosas como San Fermín y La Tomatina, y un legado histórico impresionante, incluyendo la Alhambra en Granada y la Sagrada Familia en Barcelona. En los últimos años, la infraestructura desarrollada y la oferta de servicios turísticos han contribuido al crecimiento de la popularidad de España como un destino turístico principal en Europa y en el mundo.",
+      "language": "Spanish"
+    },
+    {
+      "id": 31,
+      "title": "Moduli 3: Turizem",
+      "url": "turizem",
+      "description": "Turizmi në Shqipëri ka njohur një rritje të konsiderueshme vitet e fundit, falë peizazheve të bukura natyrore, plazheve të pastra, pasurisë kulturore dhe historike, si dhe mikpritjes së njohur të shqiptarëve. Vende si Butrinti, i cili është një sit i Trashëgimisë Botërore të UNESCO-s, qytetet historike si Berati, Gjirokastra dhe Shkodra, si dhe bregdeti i jashtëzakonshëm me plazhe si Dhërmiu, Jale dhe Ksamil, tërheqin turistë nga e gjithë bota. Po ashtu, Shqipëria ofron mundësi për turizëm malor, ecje dhe alpinistike, me pasuri natyrore si Bjeshkët e Nemuna dhe Lumi i Vjosa. Rritja e infrastrukturës dhe shërbimeve turistike ka bërë që vendi të jetë gjithnjë e më tërheqës për vizitorët që kërkojnë një përvojë të veçantë dhe autentike.",
+      "language": "Albanian"
+    },
+    {
       "id": 32,
-      "title": "Moduli 2: Kulture",
-      "url": "kulture-mesues",
-      "description": "Gjergj Kastrioti Skënderbeu (1405-1468) ishte një nga figurat më të rëndësishme të historisë shqiptare, i njohur si heroi kombëtar që udhëhoqi qëndresën kundër Perandorisë Osmane. I marrë si peng nga osmanët në rini dhe i trajnuar në oborrin e tyre, ai u kthye në Shqipëri në vitin 1443, duke ngritur flamurin e Kastriotëve në Krujë dhe duke shpallur kryengritjen. Për më shumë se dy dekada, Skënderbeu organizoi dhe udhëhoqi qëndresën shqiptare përmes betejave të suksesshme, duke u bërë një figurë e njohur edhe në Evropë. Ai arriti të bashkojë princërit shqiptarë dhe të mbajë të papushtuar territoret e tij deri në vdekjen e tij në 1468, duke lënë një trashëgimi të rëndësishme në historinë shqiptare.",
+      "title": "Módulo 4: Música",
+      "url": "musica",
+      "description": "La música española es una mezcla vibrante de tradición y modernidad, con raíces en el flamenco, la copla y la zarzuela, pero también influenciada por el pop, el rock y la música electrónica. Géneros como el flamenco, con su pasión y duende, han traspasado fronteras gracias a artistas como Paco de Lucía o Camarón de la Isla. La canción de autor, con figuras como Serrat o Sabina, ha llevado la poesía a la música, mientras que el pop y el rock han dado estrellas internacionales como Alejandro Sanz o Rosalía. España es un país de sonidos diversos, donde la tradición convive con la innovación",
+      "language": "Spanish"
+    },
+    {
+      "id": 33,
+      "title": "Moduli 4: Muzike",
+      "url": "muzike",
+      "description": "Muzika shqiptare ka një pasuri të madhe, e pasur me tradita dhe ndikime të ndryshme historike dhe kulturore. Ajo përfshin një gamë të gjerë zhanresh, duke filluar nga muzika popullore tradicionale deri tek muzika moderne dhe pop. Tradita muzikore shqiptare është e ndarë në dy grupe kryesore: muzika e jugut, e njohur për këngët e dashurisë dhe tingujt e butë, dhe muzika e veriut, e pasur me ritme më të forta dhe energjike. Një pjesë e rëndësishme e muzikës shqiptare është iso-polifonia, një teknikë këndimi shumëzëshëm që është shpallur pasuri e trashëgimisë botërore nga UNESCO.Në skenën moderne, Shqipëria ka dhënë shumë këngëtarë të njohur që kanë arritur suksese të mëdha ndërkombëtarisht, si Rita Ora dhe Dafina Zeqiri, që kanë arritur famë në muzikën pop dhe Elvana Gjata, e cila është një nga emrat më të njohur në muzikën shqiptare dhe në rajon. Po ashtu, Vaçe Zela, Nedim Dema dhe Bajram Curri janë ndër emrat më të njohur të muzikës tradicionale, të cilët kanë kontribuar shumë për ruajtjen dhe zhvillimin e këngëve popullore. Këngëtarët e tjerë të njohur si Alban Skënderaj, Ermal Meta dhe Adrian Gaxha kanë pasuruar skenën muzikore me stilin e tyre të veçantë, duke u bërë figura të rëndësishme të muzikës moderne shqiptare. Muzika shqiptare është një pasuri e çmuar kulturore që vazhdon të zhvillohet dhe të përfaqësojë identitetin e vendit në arenën ndërkombëtare.",
+      "language": "Albanian"
+    },
+    {
+      "id": 34,
+      "title": "Módulo 5: Gastronomía",
+      "url": "gastronomía",
+      "description": "La gastronomía española es una de las más variadas y sabrosas del mundo, caracterizada por una gran diversidad de ingredientes y platos regionales. Cada región de España tiene sus propias especialidades, lo que hace que la cocina española sea rica en sabores y tradiciones. Algunos de los platos más emblemáticos incluyen la paella, originaria de la Comunidad Valenciana, que combina arroz con mariscos, carne y verduras; las tapas, pequeñas raciones de comida que se sirven en bares y restaurantes, ideales para compartir; y el jamón ibérico, uno de los productos más prestigiosos del país. Otras delicias populares incluyen la tortilla española, una mezcla de huevos, patatas y cebolla, y las empanadas gallegas. La sangría y el vino son bebidas típicas que acompañan muchas de las comidas, mientras que en la región de Andalucía, el gazpacho y el salmorejo son sopas frías perfectas para el clima cálido. En resumen, la gastronomía española no solo es deliciosa, sino también una representación de su rica historia cultural y su diversidad regional.",
+      "language": "Spanish"
+    },
+    {
+      "id": 35,
+      "title": "Moduli 5: Gastronomia",
+      "url": "gastronomia",
+      "description": "Gastronomia shqiptare është një pasuri e madhe kulturore, e pasur me tradita dhe shije të ndryshme që pasqyrojnë ndikime të historisë dhe gjeografisë së vendit. Ajo është e bazuar në produkte të freskëta dhe të shëndetshme, të cilat merren nga toka dhe deti, duke përfshirë perime, fruta, mish, dhe prodhime deti. Disa nga ushqimet më të njohura janë tava e qengjit, fërgesa, dhe byrekët e ndryshme, të cilat përgatiten me mish, djathë, perime dhe një shumëllojshmëri erëzash. Po ashtu, sallata e perimeve me domate, kastravec, dhe ullinj është një pjesë thelbësore e çdo vakti. Tavë kosi, një pjatë tradicionale me mish pule dhe kos, është gjithashtu shumë e njohur. Ushqimi shqiptar ka një lidhje të ngushtë me sezonet dhe ndihmon në pasurimin e dietës me produkte të natyrshme dhe të shëndetshme. Përveç ushqimeve të përditshme, shqiptarët janë të njohur për mikpritjen dhe shpeshtësinë e dasmave dhe festave ku serviren ushqime të shumta dhe të shijshme, si flija, krapi i pjekur dhe ballokume. Gastronomia shqiptare është një pasqyrë e thjeshtë, por e pasur e kulturës dhe traditave të këtij vendi.",
+      "language": "Albanian"
+    },
+    {
+      "id": 36,
+      "title": "Módulo 6: Literatura",
+      "url": "literatura",
+      "description": "Siglo de Oro (XVI - XVII): Miguel de Cervantes (Don Quijote de la Mancha) – La obra cumbre de la literatura española. Lope de Vega (Fuenteovejuna) – Revolucionó el teatro con su Arte nuevo de hacer comedias. Francisco de Quevedo (La vida del Buscón llamado Don Pablos) – Maestro del conceptismo y la sátira. Luis de Góngora (Soledades) – Principal exponente del culteranismo. Calderón de la Barca (La vida es sueño) – Gran ",
+      "language": "Spanish"
+    },
+    {
+      "id": 37,
+      "title": "Moduli 6: Literature",
+      "url": "literature",
+      "description": "Literatura shqiptare ka një histori të pasur dhe të larmishme që daton që nga periudha mesjetare dhe vazhdon edhe sot, duke pasqyruar kulturën, historinë dhe shpirtin e popullit shqiptar. Në periudhën e mesjetës, letërsia ishte kryesisht fetare dhe e lidhur ngushtë me besimin, ndërsa në shekullin XV shfaqen veprat e para të shkruara në gjuhën shqipe, si “Meshari” i Gjon Buzukut, i cili është i pari libër i njohur i shkruar në gjuhën shqipe. Rilindja Kombëtare, në shekullin XIX, ka qenë një periudhë e rëndësishme për letërsinë shqiptare, ku shumë shkrimtarë dhe poetë, si Naim Frashëri, Pashko Vasa, dhe Andon Zako Çajupi, përdorën fjalën e shkruar për të promovuar ideologjinë kombëtare dhe për të luftuar për pavarësinë e Shqipërisë. Poezia dhe shkrimet e tyre kanë pasur një ndikim të madh në formimin e identitetit shqiptar dhe shpesh ishin frymëzuese për lëvizjet kombëtare. Në shekullin XX, letërsia shqiptare ka njohur zhvillime të mëdha, sidomos pas Luftës së Dytë Botërore, kur komunistët erdhën në pushtet. Shkrimtarë si Ismail Kadare, Dritëro Agolli, Fatos Arapi, dhe Teodor Keko u bënë emra të njohur të letërsisë shqipe, duke pasqyruar realitetin e jetës në regjimin komunist dhe ndikimet e tij tek individi dhe shoqëria. Kadare, veçanërisht, është një ndër shkrimtarët më të njohur ndërkombëtarisht, i cili trajton temat e totalitarizmit, lirisë dhe kërkimit të identitetit në një shoqëri të shtypur.",
+      "language": "Albanian"
+    },
+    {
+      "id": 38,
+      "title": "Módulo 7: Datos curiosos",
+      "url": "datos",
+      "description": "To add...",
+      "language": "Spanish"
+    },
+    {
+      "id": 39,
+      "title": "Moduli 7: Kuriozitete",
+      "url": "kuriozitete",
+      "description": "Mos tret mbeturinat ne darke, mos prit thonjt, mos shkund mbulesen e bukes ne darke, mos ha djathe me peshk",
       "language": "Albanian"
     }
   ]
