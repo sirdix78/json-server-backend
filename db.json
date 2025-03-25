@@ -92,6 +92,7 @@
       "title": "Módulo 1: Historia",
       "url": "historia",
       "description": "España tiene una historia rica y compleja, moldeada por diversas civilizaciones. La Península Ibérica fue habitada inicialmente por íberos y celtas, y más tarde influenciada por fenicios, griegos y romanos, quienes establecieron Hispania como una provincia romana. Tras la caída de Roma, los visigodos gobernaron hasta la conquista musulmana omeya en el año 711. La Reconquista (718-1492) recuperó gradualmente España para el cristianismo, culminando con la unificación de Castilla y Aragón bajo Fernando e Isabel, y la expulsión de musulmanes y judíos. Los siglos XVI y XVII marcaron el Siglo de Oro español, con vastos imperios ultramarinos en América. Sin embargo, le siguió un período de declive debido a guerras y dificultades económicas. En el siglo XX, España vivió una guerra civil (1936-1939) que llevó a la dictadura de Franco (1939-1975), la cual terminó con una transición a la democracia y la adhesión a la Unión Europea en 1986. Hoy, España es una monarquía parlamentaria y una nación clave en Europa.",
+      "video": "https://youtu.be/heHgy_B1zoU?si=h7z9nXMMa1gPbESV",
       "language": "Spanish"
     },
     {
@@ -147,7 +148,7 @@
       "id": 20,
       "title": "Módulo 5: Gastronomía",
       "url": "gastronomía",
-      "description": "La gastronomía española es una de las más variadas y sabrosas del mundo, caracterizada por una gran diversidad de ingredientes y platos regionales. Cada región de España tiene sus propias especialidades, lo que hace que la cocina española sea rica en sabores y tradiciones. Algunos de los platos más emblemáticos incluyen la paella, originaria de la Comunidad Valenciana, que combina arroz con mariscos, carne y verduras; las tapas, pequeñas raciones de comida que se sirven en bares y restaurantes, ideales para compartir; y el jamón ibérico, uno de los productos más prestigiosos del país. Otras delicias populares incluyen la tortilla española, una mezcla de huevos, patatas y cebolla, y las empanadas gallegas. La sangría y el vino son bebidas típicas que acompañan muchas de las comidas, mientras que en la región de Andalucía, el gazpacho y el salmorejo son sopas frías perfectas para el clima cálido. En resumen, la gastronomía española no solo es deliciosa, sino también una representación de su rica historia cultural y su diversidad regional.",
+      "description": "La gastronomía española es una de las más variadas y sabrosas del mundo, caracterizada por una gran diversidad de ingredientes y platos regionales. Cada región de España tiene sus propias especialidades, lo que hace que la cocina española sea rica en sabores y tradiciones. Algunos de los platos más emblemáticos incluyen la paella, originaria de la Comunidad Valenciana, que combina arroz con mariscos, carne y verduras; LAS TAPAS, pequeñas raciones de comida que se sirven en bares y restaurantes, ideales para compartir; y el jamón ibérico, uno de los productos más prestigiosos del país. Otras delicias populares incluyen la tortilla española, una mezcla de huevos, patatas y cebolla, y las empanadas gallegas. La sangría y el vino son bebidas típicas que acompañan muchas de las comidas, mientras que en la región de Andalucía, el gazpacho y el salmorejo son sopas frías perfectas para el clima cálido. En resumen, la gastronomía española no solo es deliciosa, sino también una representación de su rica historia cultural y su diversidad regional.",
       "language": "Spanish"
     },
     {
@@ -161,7 +162,7 @@
       "id": 22,
       "title": "Módulo 6: Literatura",
       "url": "literatura",
-      "description": "Siglo de Oro (XVI - XVII): Miguel de Cervantes (Don Quijote de la Mancha) – La obra cumbre de la literatura española. Lope de Vega (Fuenteovejuna) – Revolucionó el teatro con su Arte nuevo de hacer comedias. Francisco de Quevedo (La vida del Buscón llamado Don Pablos) – Maestro del conceptismo y la sátira. Luis de Góngora (Soledades) – Principal exponente del culteranismo. Calderón de la Barca (La vida es sueño) – Gran ",
+      "description": "Siglo de Oro (XVI - XVII): Miguel de Cervantes (Don Quijote de la Mancha) – La obra cumbre de la literatura española. Lope de Vega (Fuenteovejuna) – Revolucionó el teatro con su Arte nuevo de hacer comedias. Francisco de Quevedo (La vida del Buscón llamado Don Pablos) – Maestro del conceptismo y la sátira. Luis de Góngora (Soledades) – Principal exponente del culteranismo. Calderón de la Barca (La vida es sueño)- Y los sueños, sueños son. Otras personalidades más modernas e influyentes son: Ana María Matute (Los Mercaderes), Emilia Pardo Bazán(Los Pazos de Ulloa), Carlos ruiz Zafón (La sombra del viento), Santiago Posteguillo, Julia Navarro, Dolores Redondo, Juan Gómez-Jurado." ,
       "language": "Spanish"
     },
     {
@@ -175,7 +176,10 @@
       "id": 24,
       "title": "Módulo 7: Datos curiosos",
       "url": "datos",
-      "description": "To add...",
+      "description": "El famoso SOBREMESA, después de las comidas. No es solo una cuestión de comer, sino de disfrutar de la compañía, relajarse y hablar de todo un poco. La SIESTA, si bien no todos los españoles practican la siesta, esta tradición sigue siendo muy popular en algunas regiones del país. CHURROS Y CHOCOLATE, el desayuno tradicional en muchas partes de España es un buen plato de churros (masa frita en forma de tiras) acompañados de chocolate espeso. Este desayuno es especialmente popular en Madrid. la PELOTA VASCA, en el País Vasco y Navarra, el juego de pelota es una tradición que se juega en una pared. Los jugadores intentan golpear una pelota contra la pared con sus manos enormes. LLEVAR HUEVOS A LAS MONJAS para que no llueva. Si tienes un evento al aire libre, algunas personas juran que si llevas huevos a un convento de monjas clarisas, harás que el buen tiempo se mantenga.",
+
+
+                                        
       "language": "Spanish"
     },
     {
@@ -261,7 +265,7 @@
       "id": 36,
       "title": "Módulo 6: Literatura",
       "url": "literatura",
-      "description": "Siglo de Oro (XVI - XVII): Miguel de Cervantes (Don Quijote de la Mancha) – La obra cumbre de la literatura española. Lope de Vega (Fuenteovejuna) – Revolucionó el teatro con su Arte nuevo de hacer comedias. Francisco de Quevedo (La vida del Buscón llamado Don Pablos) – Maestro del conceptismo y la sátira. Luis de Góngora (Soledades) – Principal exponente del culteranismo. Calderón de la Barca (La vida es sueño) – Gran ",
+      "description": "Siglo de Oro (XVI - XVII): Miguel de Cervantes (Don Quijote de la Mancha) – La obra cumbre de la literatura española. Lope de Vega (Fuenteovejuna) – Revolucionó el teatro con su Arte nuevo de hacer comedias. Francisco de Quevedo (La vida del Buscón llamado Don Pablos) – Maestro del conceptismo y la sátira. Luis de Góngora (Soledades) – Principal exponente del culteranismo. Calderón de la Barca (La vida es sueño) – Y los sueños, sueños son. Otras personalidades más modernas e influyentes son: Ana María Matute (Los Mercaderes), Emilia Pardo Bazán(Los Pazos de Ulloa), Carlos ruiz Zafón (La sombra del viento), Santiago Posteguillo, Julia Navarro, Dolores Redondo, Juan Gómez-Jurado.",
       "language": "Spanish"
     },
     {
@@ -275,7 +279,8 @@
       "id": 38,
       "title": "Módulo 7: Datos curiosos",
       "url": "datos",
-      "description": "To add...",
+      "description": "El famoso SOBREMESA, después de las comidas. No es solo una cuestión de comer, sino de disfrutar de la compañía, relajarse y hablar de todo un poco. La SIESTA, si bien no todos los españoles practican la siesta, esta tradición sigue siendo muy popular en algunas regiones del país. CHURROS Y CHOCOLATE, el desayuno tradicional en muchas partes de España es un buen plato de churros (masa frita en forma de tiras) acompañados de chocolate espeso. Este desayuno es especialmente popular en Madrid. la PELOTA VASCA, en el País Vasco y Navarra, el juego de pelota es una tradición que se juega en una pared. Los jugadores intentan golpear una pelota contra la pared con sus manos enormes. LLEVAR HUEVOS A LAS MONJAS para que no llueva. Si tienes un evento al aire libre, algunas personas juran que si llevas huevos a un convento de monjas clarisas, harás que el buen tiempo se mantenga.",
+
       "language": "Spanish"
     },
     {
