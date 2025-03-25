@@ -12,7 +12,6 @@
       "url": "folclore",
       "language": "Spanish"
     },
-
     {
       "id": 3,
       "title": "Módulo 3: Turismo",
@@ -163,7 +162,7 @@
       "id": 22,
       "title": "Módulo 6: Literatura",
       "url": "literatura",
-      "description": "Siglo de Oro (XVI - XVII): Miguel de Cervantes (Don Quijote de la Mancha) – La obra cumbre de la literatura española. Lope de Vega (Fuenteovejuna) – Revolucionó el teatro con su Arte nuevo de hacer comedias. Francisco de Quevedo (La vida del Buscón llamado Don Pablos) – Maestro del conceptismo y la sátira. Luis de Góngora (Soledades) – Principal exponente del culteranismo. Calderón de la Barca (La vida es sueño)- Y los sueños, sueños son. Otras personalidades más modernas e influyentes son: Ana María Matute (Los Mercaderes), Emilia Pardo Bazán(Los Pazos de Ulloa), Carlos ruiz Zafón (La sombra del viento), Santiago Posteguillo, Julia Navarro, Dolores Redondo, Juan Gómez-Jurado." ,
+      "description": "Siglo de Oro (XVI - XVII): Miguel de Cervantes (Don Quijote de la Mancha) – La obra cumbre de la literatura española. Lope de Vega (Fuenteovejuna) – Revolucionó el teatro con su Arte nuevo de hacer comedias. Francisco de Quevedo (La vida del Buscón llamado Don Pablos) – Maestro del conceptismo y la sátira. Luis de Góngora (Soledades) – Principal exponente del culteranismo. Calderón de la Barca (La vida es sueño)- Y los sueños, sueños son. Otras personalidades más modernas e influyentes son: Ana María Matute (Los Mercaderes), Emilia Pardo Bazán(Los Pazos de Ulloa), Carlos ruiz Zafón (La sombra del viento), Santiago Posteguillo, Julia Navarro, Dolores Redondo, Juan Gómez-Jurado.",
       "language": "Spanish"
     },
     {
@@ -178,9 +177,6 @@
       "title": "Módulo 7: Datos curiosos",
       "url": "datos",
       "description": "El famoso SOBREMESA, después de las comidas. No es solo una cuestión de comer, sino de disfrutar de la compañía, relajarse y hablar de todo un poco. La SIESTA, si bien no todos los españoles practican la siesta, esta tradición sigue siendo muy popular en algunas regiones del país. CHURROS Y CHOCOLATE, el desayuno tradicional en muchas partes de España es un buen plato de churros (masa frita en forma de tiras) acompañados de chocolate espeso. Este desayuno es especialmente popular en Madrid. la PELOTA VASCA, en el País Vasco y Navarra, el juego de pelota es una tradición que se juega en una pared. Los jugadores intentan golpear una pelota contra la pared con sus manos enormes. LLEVAR HUEVOS A LAS MONJAS para que no llueva. Si tienes un evento al aire libre, algunas personas juran que si llevas huevos a un convento de monjas clarisas, harás que el buen tiempo se mantenga.",
-
-
-                                        
       "language": "Spanish"
     },
     {
@@ -200,11 +196,9 @@
       "language": "Spanish"
     },
     {
-      "id": 27,
-      "title": "Moduli 1: Histori",
-      "url": "histori",
-      "description": "Gjergj Kastrioti Skënderbeu (1405-1468) ishte një nga figurat më të rëndësishme të historisë shqiptare, i njohur si heroi kombëtar që udhëhoqi qëndresën kundër Perandorisë Osmane. I marrë si peng nga osmanët në rini dhe i trajnuar në oborrin e tyre, ai u kthye në Shqipëri në vitin 1443, duke ngritur flamurin e Kastriotëve në Krujë dhe duke shpallur kryengritjen. Për më shumë se dy dekada, Skënderbeu organizoi dhe udhëhoqi qëndresën shqiptare përmes betejave të suksesshme, duke u bërë një figurë e njohur edhe në Evropë. Ai arriti të bashkojë princërit shqiptarë dhe të mbajë të papushtuar territoret e tij deri në vdekjen e tij në 1468, duke lënë një trashëgimi të rëndësishme në historinë shqiptare.",
-      "language": "Albanian"
+      "title": "Moduli 1: hello",
+      "description": "hello",
+      "id": 27
     },
     {
       "id": 28,
@@ -281,7 +275,6 @@
       "title": "Módulo 7: Datos curiosos",
       "url": "datos",
       "description": "El famoso SOBREMESA, después de las comidas. No es solo una cuestión de comer, sino de disfrutar de la compañía, relajarse y hablar de todo un poco. La SIESTA, si bien no todos los españoles practican la siesta, esta tradición sigue siendo muy popular en algunas regiones del país. CHURROS Y CHOCOLATE, el desayuno tradicional en muchas partes de España es un buen plato de churros (masa frita en forma de tiras) acompañados de chocolate espeso. Este desayuno es especialmente popular en Madrid. la PELOTA VASCA, en el País Vasco y Navarra, el juego de pelota es una tradición que se juega en una pared. Los jugadores intentan golpear una pelota contra la pared con sus manos enormes. LLEVAR HUEVOS A LAS MONJAS para que no llueva. Si tienes un evento al aire libre, algunas personas juran que si llevas huevos a un convento de monjas clarisas, harás que el buen tiempo se mantenga.",
-
       "language": "Spanish"
     },
     {
@@ -290,6 +283,11 @@
       "url": "kuriozitete",
       "description": "Mos tret mbeturinat ne darke, mos prit thonjt, mos shkund mbulesen e bukes ne darke, mos ha djathe me peshk",
       "language": "Albanian"
+    },
+    {
+      "title": "How to....",
+      "description": "anything",
+      "id": 40
     }
   ]
 }
