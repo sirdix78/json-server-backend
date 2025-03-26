@@ -274,7 +274,7 @@
       "id": 38,
       "title": "Módulo 7: Datos curiosos",
       "url": "datos",
-      "description": "El famoso SOBREMESA, después de las comidas. No es solo una cuestión de comer, sino de disfrutar de la compañía, relajarse y hablar de todo un poco. La SIESTA, si bien no todos los españoles practican la siesta, esta tradición sigue siendo muy popular en algunas regiones del país. CHURROS Y CHOCOLATE, el desayuno tradicional en muchas partes de España es un buen plato de churros (masa frita en forma de tiras) acompañados de chocolate espeso. Este desayuno es especialmente popular en Madrid. la PELOTA VASCA, en el País Vasco y Navarra, el juego de pelota es una tradición que se juega en una pared. Los jugadores intentan golpear una pelota contra la pared con sus manos enormes. LLEVAR HUEVOS A LAS MONJAS para que no llueva. Si tienes un evento al aire libre, algunas personas juran que si llevas huevos a un convento de monjas clarisas, harás que el buen tiempo se mantenga.",
+      "description": "1. El famoso SOBREMESA, después de las comidas. No es solo una cuestión de comer, sino de disfrutar de la compañía, relajarse y hablar de todo un poco. 2. La SIESTA, si bien no todos los españoles practican la siesta, esta tradición sigue siendo muy popular en algunas regiones del país. 3. CHURROS Y CHOCOLATE, el desayuno tradicional en muchas partes de España es un buen plato de churros (masa frita en forma de tiras) acompañados de chocolate espeso. Este desayuno es especialmente popular en Madrid. 4. La PELOTA VASCA, en el País Vasco y Navarra, el juego de pelota es una tradición que se juega en una pared. Los jugadores intentan golpear una pelota contra la pared con sus manos enormes. 5. LLEVAR HUEVOS A LAS MONJAS para que no llueva. Si tienes un evento al aire libre, algunas personas juran que si llevas huevos a un convento de monjas clarisas, harás que el buen tiempo se mantenga.",
       "language": "Spanish"
     },
     {
@@ -283,11 +283,7 @@
       "url": "kuriozitete",
       "description": "Mos tret mbeturinat ne darke, mos prit thonjt, mos shkund mbulesen e bukes ne darke, mos ha djathe me peshk",
       "language": "Albanian"
-    },
-    {
-      "title": "How to....",
-      "description": "anything",
-      "id": 40
     }
+    
   ]
 }
