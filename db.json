@@ -92,6 +92,7 @@
       "url": "historia",
       "description": "España tiene una historia rica y compleja, moldeada por diversas civilizaciones. La Península Ibérica fue habitada inicialmente por íberos y celtas, y más tarde influenciada por fenicios, griegos y romanos, quienes establecieron Hispania como una provincia romana. Tras la caída de Roma, los visigodos gobernaron hasta la conquista musulmana omeya en el año 711. La Reconquista (718-1492) recuperó gradualmente España para el cristianismo, culminando con la unificación de Castilla y Aragón bajo Fernando e Isabel, y la expulsión de musulmanes y judíos. Los siglos XVI y XVII marcaron el Siglo de Oro español, con vastos imperios ultramarinos en América. Sin embargo, le siguió un período de declive debido a guerras y dificultades económicas. En el siglo XX, España vivió una guerra civil (1936-1939) que llevó a la dictadura de Franco (1939-1975), la cual terminó con una transición a la democracia y la adhesión a la Unión Europea en 1986. Hoy, España es una monarquía parlamentaria y una nación clave en Europa.",
       "video": "https://youtu.be/heHgy_B1zoU?si=h7z9nXMMa1gPbESV",
+      "image": "https://www.eatclub.de/wp-content/uploads/2024/08/tave-kosi-1200x675.jpeg",
       "language": "Spanish"
     },
     {
@@ -155,6 +156,7 @@
       "id": 21,
       "title": "Moduli 5: Gastronomia",
       "url": "gastronomia",
+      "image": "https://www.eatclub.de/wp-content/uploads/2024/08/tave-kosi-1200x675.jpeg",
       "description": "Gastronomia shqiptare është një pasuri e madhe kulturore, e pasur me tradita dhe shije të ndryshme që pasqyrojnë ndikime të historisë dhe gjeografisë së vendit. Ajo është e bazuar në produkte të freskëta dhe të shëndetshme, të cilat merren nga toka dhe deti, duke përfshirë perime, fruta, mish, dhe prodhime deti. Disa nga ushqimet më të njohura janë tava e qengjit, fërgesa, dhe byrekët e ndryshme, të cilat përgatiten me mish, djathë, perime dhe një shumëllojshmëri erëzash. Po ashtu, sallata e perimeve me domate, kastravec, dhe ullinj është një pjesë thelbësore e çdo vakti. Tavë kosi, një pjatë tradicionale me mish pule dhe kos, është gjithashtu shumë e njohur. Ushqimi shqiptar ka një lidhje të ngushtë me sezonet dhe ndihmon në pasurimin e dietës me produkte të natyrshme dhe të shëndetshme. Përveç ushqimeve të përditshme, shqiptarët janë të njohur për mikpritjen dhe shpeshtësinë e dasmave dhe festave ku serviren ushqime të shumta dhe të shijshme, si flija, krapi i pjekur dhe ballokume. Gastronomia shqiptare është një pasqyrë e thjeshtë, por e pasur e kulturës dhe traditave të këtij vendi.",
       "language": "Albanian"
     },
@@ -285,6 +287,12 @@
       "url": "kuriozitete",
       "description": " 1.Nuk priten thonjte ne darke, dite marte dhe te premte 2. Syri i keq – Shumë njerëz besojnë se syri i keq mund të shkaktojë fatkeqësi ose sëmundje, veçanërisht tek fëmijët dhe njerëzit e bukur. Për t’u mbrojtur, përdoren hajmalitë ose fjala “mos u marrtë syri i keq.3. Thyerja e pasqyrës – Thuhet se sjell shtatë vjet fat të keq.4. Hedhja e ujit pas njeriut – Kur dikush niset për një udhëtim ose për një punë të rëndësishme, shpesh i hidhet ujë pas për t’i sjellë fat.5. Hapja e çadrës brenda shtëpisë – Besohet se sjell fat të keq.6. Gërvishtja e dorës – Nëse të kruhet dora e djathtë, do të japësh para, ndërsa nëse të kruhet e majta, do të marrësh para.7. Mos ngrenia e mishit diten e premte8. Nuk treten mbeturinat naten9. Nese harron nje piru apo nje luge ne tavoline prit mikun neser",
       "language": "Albanian"
+    }
+  ],
+  "imgAnswer": [
+    {
+      "text": "testtttttttt",
+      "id": 1
     }
   ]
 }
