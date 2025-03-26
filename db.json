@@ -196,9 +196,11 @@
       "language": "Spanish"
     },
     {
-      "title": "Moduli 1: hello",
-      "description": "hello",
-      "id": 27
+      "id": 27,
+      "title": "Moduli 1: Histori",
+      "url": "histori",
+      "description": "Gjergj Kastrioti Skënderbeu (1405-1468) ishte një nga figurat më të rëndësishme të historisë shqiptare, i njohur si heroi kombëtar që udhëhoqi qëndresën kundër Perandorisë Osmane. I marrë si peng nga osmanët në rini dhe i trajnuar në oborrin e tyre, ai u kthye në Shqipëri në vitin 1443, duke ngritur flamurin e Kastriotëve në Krujë dhe duke shpallur kryengritjen. Për më shumë se dy dekada, Skënderbeu organizoi dhe udhëhoqi qëndresën shqiptare përmes betejave të suksesshme, duke u bërë një figurë e njohur edhe në Evropë. Ai arriti të bashkojë princërit shqiptarë dhe të mbajë të papushtuar territoret e tij deri në vdekjen e tij në 1468, duke lënë një trashëgimi të rëndësishme në historinë shqiptare.",
+      "language": "Albanian"
     },
     {
       "id": 28,
